@@ -1,0 +1,11 @@
+{
+  "name": "bay_api",
+  "version": "1.0.0",
+  "description": "That's a general BAY Digital Services API, to sample services, Sites and Databases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Rafael Mariano de Oliveira",
+  "license": "ISC"
+}
